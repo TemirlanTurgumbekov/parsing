@@ -1,0 +1,301 @@
+№,Name,Description,Price,Image Url
+1,Toyota Sienna,"2017 г., 3.5 л., автомат минивэн, бензин руль слева, 143 000 км",$ 32 500,https://im.mashina.kg/tachka/images//2/d/4/2d443b547d98898d4039601e92ce5d26_240x180.jpg
+2,Toyota Fortuner,"2017 г., 2.7 л., автомат внедорожник 5 дв., бензин руль слева, 70 000 км",$ 40 500,https://im.mashina.kg/tachka/images//4/2/7/4275c2ac1a6e03196d435be50a629946_240x180.jpg
+3,Lexus RX,"2017 г., 3.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 110 000 км",$ 53 000,https://im.mashina.kg/tachka/images//c/3/b/c3b97d5b92ab907e27615efec4762660_240x180.jpg
+4,Lexus LX,"2015 г., 4.5 л., автомат внедорожник 5 дв., дизель руль слева, 125 000 км",$ 88 000,https://im.mashina.kg/tachka/images//9/1/a/91a23ea4736b9bfc914e94d13a580baa_240x180.jpg
+5,Lexus GX,"2007 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 175 000 км",$ 26 500,https://im.mashina.kg/tachka/images//f/6/a/f6a2c3b63c6de37200c1ba4bd0fc349d_240x180.jpg
+6,Toyota Highlander,"2017 г., 3.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 62 000 км",$ 41 100,https://im.mashina.kg/tachka/images//3/9/7/397cc0411b734d0fa2f8e1064b899e04_240x180.jpg
+7,Lexus LX,"2014 г., 5.7 л., автомат внедорожник 5 дв., бензин руль слева, 40 500 км",$ 65 000,https://im.mashina.kg/tachka/images//a/b/3/ab3f7cb46db72bc50b5b090e64330543_240x180.jpg
+8,Land Rover Range Rover,"2018 г., 4.4 л., автомат внедорожник 5 дв., дизель руль слева, 41 000 км",$ 115 000,https://im.mashina.kg/tachka/images//2/c/2/2c285222aec4a03816e29fb21f94e550_240x180.jpg
+9,Genesis GV80,"2020 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 38 000 км",$ 69 000,https://im.mashina.kg/tachka/images//8/d/5/8d5a34db3191fc6569ee5cbdfb95da76_240x180.jpg
+10,Toyota Camry,"2021 г., 2.5 л., автомат седан, бензин руль слева, 27 000 км",$ 26 300,https://im.mashina.kg/tachka/images//6/3/1/631e683d113e3c0efaaff086d9db2891_240x180.jpg
+11,Toyota RAV4,"2016 г., 2.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 160 000 км",$ 27 500,https://im.mashina.kg/tachka/images//a/2/9/a29a699a99b6af022789ca0c684c743b_240x180.jpg
+12,BMW X5,"2017 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 150 000 км",$ 49 500,https://im.mashina.kg/tachka/images//a/3/6/a36fb2df832fc46d06c6913b3f27e1a5_240x180.jpg
+13,Toyota 4Runner,"2017 г., 4 л., автомат внедорожник 5 дв., бензин руль слева, 120 000 км",$ 37 500,https://im.mashina.kg/tachka/images//6/f/3/6f3d18909acce96e97b39456bd181437_240x180.jpg
+14,Ravon R4,"2017 г., 1.5 л., автомат седан, бензин руль слева, 40 000 км",$ 10 800,https://im.mashina.kg/tachka/images//5/b/5/5b577b1566c9fa587874c90f6b87a37c_240x180.jpg
+15,Lexus LX,"2012 г., 5.7 л., автомат внедорожник 5 дв., бензин руль слева, 200 000 км",$ 46 000,https://im.mashina.kg/tachka/images//b/d/c/bdc05b775f6d6a384e8e637e655a73f7_240x180.jpg
+16,Toyota Land Cruiser,"2012 г., 4.6 л., автомат внедорожник 5 дв., бензин руль слева, 139 000 км",$ 49 000,https://im.mashina.kg/tachka/images//6/b/6/6b6b415223149c7ceff9be1187a71575_240x180.jpg
+17,Kia K5 II Седан,"2018 г., 2 л., автомат седан, газ руль слева, 158 000 км",$ 17 300,https://im.mashina.kg/tachka/images//e/b/c/ebc9170f358e98295ad38bfc4828c52b_240x180.jpg
+18,BMW 3 серии,"2013 г., 2 л., автомат седан, бензин руль слева, 132 000 км",$ 20 500,https://im.mashina.kg/tachka/images//a/a/c/aac4b20f84a6dc7a3170f9142e6af478_240x180.jpg
+19,Toyota Prius,"2020 г., 1.8 л., автомат хэтчбек 5 дв., гибрид руль слева, 75 000 км",$ 23 900,https://im.mashina.kg/tachka/images//3/f/3/3f3a4767e6ccb730ca31809a202ec1e2_240x180.jpg
+20,Toyota Alphard,"2007 г., 3 л., автомат минивэн, бензин руль справа, 115 590 км",$ 13 500,https://im.mashina.kg/tachka/images//b/6/8/b6822f36b6e7536a5216f197bb955e10_240x180.jpg
+21,Toyota RAV4,"2018 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 43 000 км",$ 25 200,https://im.mashina.kg/tachka/images//0/c/5/0c587a1af44f9d105198548fe7555343_240x180.jpg
+22,Honda Stepwgn,"2005 г., 2 л., автомат минивэн, бензин руль справа, 160 000 км",$ 12 000,https://im.mashina.kg/tachka/images//0/c/f/0cf597b2ac90ed330c529a93fe23bc17_240x180.jpg
+23,Chevrolet Volt,"2012 г., 1.4 л., вариатор хэтчбек 5 дв., гибрид руль слева, 183 000 км",$ 11 700,https://im.mashina.kg/tachka/images//c/c/b/ccbbbb0516b61610cfdbb11f12d2fac5_240x180.jpg
+24,Toyota Camry,"2023 г., 2.5 л., автомат седан, бензин руль слева, 100 км",$ 42 000,https://im.mashina.kg/tachka/images//c/2/d/c2d2637bf2e0b2a01d5a365141d91ab9_240x180.jpg
+25,Mercedes-Benz E-класс,"2007 г., 3.5 л., автомат седан, бензин руль слева, 223 000 км",$ 11 500,https://im.mashina.kg/tachka/images//7/3/6/73693ac8cc24fe2c30cb9586286f536d_240x180.jpg
+26,Kia K7,"2014 г., 3 л., автомат седан, бензин руль слева, 120 000 км",$ 14 950,https://im.mashina.kg/tachka/images//9/9/6/996a01f76274f0c221d87f78e7a0e8b9_240x180.jpg
+27,Lexus RX,"2018 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 30 000 км",$ 46 000,https://im.mashina.kg/tachka/images//a/e/e/aee1a0bb11b963807e3887ed7690c2c8_240x180.jpg
+28,Honda CR-V,"2006 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 334 000 км",$ 12 500,https://im.mashina.kg/tachka/images//a/5/e/a5e04da8364ebb048e5bb2fbb323bf16_240x180.jpg
+29,Mercedes-Benz S-класс,"2002 г., 4.3 л., автомат седан, бензин руль слева, 172 500 км",$ 10 500,https://im.mashina.kg/tachka/images//b/b/4/bb444b243fa47863c3669c3ac6e53a49_240x180.jpg
+30,Kia Sorento,"2017 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 161 000 км",$ 23 300,https://im.mashina.kg/tachka/images//d/d/b/ddb04ea59f57884f3bd078c85b21d22b_240x180.jpg
+31,Land Rover Range Rover,"2018 г., 4.4 л., автомат внедорожник 5 дв., дизель руль слева, 80 000 км",$ 112 000,https://im.mashina.kg/tachka/images//7/3/0/730bf96c5a5b82926a5fa9630ec95fac_240x180.jpg
+32,Toyota FJ Cruiser,"2008 г., 4 л., автомат внедорожник 5 дв., бензин руль слева, 180 000 км",$ 26 000,https://im.mashina.kg/tachka/images//d/7/4/d7498dbb9226a21274533a1a7903be74_240x180.jpg
+33,Toyota Harrier,"2004 г., 3 л., автомат внедорожник 5 дв., бензин руль справа, 190 000 км",$ 14 500,https://im.mashina.kg/tachka/images//a/0/2/a02320bff77fcbc9bc7047751a5b1d15_240x180.jpg
+34,Toyota Camry,"2015 г., 2.5 л., автомат седан, бензин руль слева, 190 000 км",$ 17 200,https://im.mashina.kg/tachka/images//6/c/4/6c47f58180ba6a61da06a7c2c1abaf73_240x180.jpg
+35,Lexus UX,"2019 г., 2 л., вариатор внедорожник 5 дв., гибрид руль слева, 25 000 км",$ 38 500,https://im.mashina.kg/tachka/images//e/8/f/e8f353e0eeb3701a73b0469860139286_240x180.jpg
+36,Suzuki SX4,"2011 г., 2 л., автомат хэтчбек 5 дв., бензин руль слева, 200 000 км",$ 7 500,https://im.mashina.kg/tachka/images//6/9/e/69eb54727ffabd5fd3de2754845ab1e4_240x180.jpg
+37,Jaguar XE,"2017 г., 2 л., автомат седан, бензин руль слева, 57 000 км",$ 21 000,https://im.mashina.kg/tachka/images//8/4/6/84683d472d5758771ae64f09648feafc_240x180.jpg
+38,Toyota Highlander,"2022 г., 2.5 л., автомат внедорожник 5 дв., гибрид руль слева",$ 72 000,https://im.mashina.kg/tachka/images//1/0/8/1084f072b109822a393b3b48f8fa9304_240x180.jpg
+39,Lexus GS,"2018 г., 2.5 л., вариатор седан, гибрид руль слева, 67 000 км",$ 29 400,https://im.mashina.kg/tachka/images//3/0/1/301d0ca5b519776d4f51f9e9c632a640_240x180.jpg
+40,Lexus ES,"2007 г., 3.5 л., автомат седан, бензин руль слева, 335 000 км",$ 10 800,https://im.mashina.kg/tachka/images//0/d/2/0d27ea3127c2707a30eb0fc1ca05d1eb_240x180.jpg
+41,Mercedes-Benz E-класс,"2017 г., 2 л., автомат седан, бензин руль слева, 372 850 км",$ 28 500,https://im.mashina.kg/tachka/images//6/b/5/6b53aafca60bd5672e97a27159dab6a3_240x180.jpg
+42,Ford F-150,"2016 г., 2.7 л., автомат пикап двойная кабина, бензин руль слева, 130 000 км",$ 43 900,https://im.mashina.kg/tachka/images//4/a/f/4af500b595c094a57c52c7c0d0619835_240x180.jpg
+43,BMW 5 серии,"2019 г., 2 л., автомат седан, дизель руль слева, 50 000 км",$ 36 500,https://im.mashina.kg/tachka/images//9/0/f/90f361a09a2bf4153a3aab93e54a2c04_240x180.jpg
+44,Mercedes-Benz C-Класс,"2000 г., 2.6 л., автомат седан, бензин руль слева, 220 000 км",$ 6 700,https://im.mashina.kg/tachka/images//1/f/2/1f26daa41383d7aea132b04f5fd37fbd_240x180.jpg
+45,Kia Carnival,"2021 г., 3.5 л., автомат минивэн, бензин руль слева, 1 100 км",$ 40 000,https://im.mashina.kg/tachka/images//d/1/b/d1b421693c66374fa5475cb2d3d808a0_240x180.jpg
+46,BMW X5,"2017 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 68 000 км",$ 42 000,https://im.mashina.kg/tachka/images//8/f/0/8f083f181198b188c5200cbddd5e6ea1_240x180.jpg
+47,BMW X5,"2016 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 70 000 км",$ 42 000,https://im.mashina.kg/tachka/images//a/1/b/a1baeddde95f966b9c1b95f7d057d1ac_240x180.jpg
+48,Kia Seltos,"2020 г., 1.6 л., автомат внедорожник 5 дв., бензин руль слева, 60 000 км",$ 26 800,https://im.mashina.kg/tachka/images//4/7/2/4722530f05c4c59976dfcd92178cb844_240x180.jpg
+49,Toyota Land Cruiser Prado,"2012 г., 2.7 л., автомат внедорожник 5 дв., бензин руль слева, 108 000 км",$ 33 000,https://im.mashina.kg/tachka/images//9/7/2/97265434c0e5d4ba261fd3a5543ef7c7_240x180.jpg
+50,Kia K5 II Седан,"2016 г., 2 л., автомат седан, газ руль слева, 119 000 км",$ 12 900,https://im.mashina.kg/tachka/images//0/b/7/0b75af0867cb0bd5897a33147e396fff_240x180.jpg
+51,Toyota Crown,"2005 г., 3.5 л., автомат седан, бензин руль справа, 182 000 км",$ 14 900,https://im.mashina.kg/tachka/images//6/4/1/641a14b8d85bef8189425280e8e6862c_240x180.jpg
+52,Hyundai Sonata,"2016 г., 2.4 л., автомат седан, бензин руль слева, 143 000 км",$ 14 500,https://im.mashina.kg/tachka/images//c/7/b/c7b9925ca35326d7fb89028f77e92a47_240x180.jpg
+53,Volvo S40,"2007 г., 1.8 л., механика седан, бензин руль слева, 192 000 км",$ 6 200,https://im.mashina.kg/tachka/images//f/9/1/f9199652f1ed08f399d125295e587607_240x180.jpg
+54,BMW X7,"2019 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 55 000 км",$ 100 000,https://im.mashina.kg/tachka/images//2/2/8/228ab07152265ba8da5465ff502087e6_240x180.jpg
+55,Porsche Panamera,"2011 г., 4.8 л., робот хэтчбек 5 дв., бензин руль слева, 150 000 км",$ 30 500,https://im.mashina.kg/tachka/images//2/f/e/2fe887d6decea99c8ff7190e55f8fdd1_240x180.jpg
+56,Honda Civic,"2012 г., 1.8 л., автомат седан, бензин руль слева, 8 800 км",$ 11 000,https://im.mashina.kg/tachka/images//8/9/0/890177ce1b3d56ad7ddee45481bb1880_240x180.jpg
+57,Lexus ES,"2021 г., 2.5 л., автомат седан, бензин руль слева, 25 000 км",$ 40 999,https://im.mashina.kg/tachka/images//7/9/f/79fe9d1a9a540bee14645c7a7dc3b7f4_240x180.jpg
+58,Toyota Camry,"2021 г., 2.5 л., автомат седан, бензин руль слева, 39 750 км",$ 27 500,https://im.mashina.kg/tachka/images//4/d/d/4dda66d270cb284a0d05d1a4254de9d4_240x180.jpg
+59,BMW 5 серии,"2018 г., 2 л., автомат седан, дизель руль слева, 65 000 км",$ 38 500,https://im.mashina.kg/tachka/images//d/e/5/de5720af21c0ad98028e1f0194a4a6e4_240x180.jpg
+60,BMW X5,"2021 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 22 000 км",$ 99 500,https://im.mashina.kg/tachka/images//8/4/7/8473bd7ddc7bafe8cbe5a3b4188096f8_240x180.jpg
+61,Honda HR-V,"2019 г., 1.8 л., вариатор внедорожник 5 дв., бензин руль слева, 40 000 км",$ 19 000,https://im.mashina.kg/tachka/images//7/b/7/7b76ab8c49e90ebd81a74536cab12aef_240x180.jpg
+62,Toyota Altezza,"2003 г., 2 л., автомат универсал, бензин руль справа, 308 000 км",$ 5 300,https://im.mashina.kg/tachka/images//0/0/2/002f7a0560e3ca7a2d26e76c94df1089_240x180.jpg
+63,Lexus LX,"2010 г., 5.7 л., автомат внедорожник 5 дв., бензин руль слева, 270 000 км",$ 38 500,https://im.mashina.kg/tachka/images//6/b/f/6bf81e3fd12c4d546f7ea05f7a615733_240x180.jpg
+64,Lexus RX,"2016 г., 3.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 130 000 км",$ 48 000,https://im.mashina.kg/tachka/images//1/2/1/121bf5a7c96014cdb024c4250fad8fca_240x180.jpg
+65,Lexus LX,"2005 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 180 000 км",$ 24 000,https://im.mashina.kg/tachka/images//e/6/f/e6fa9983a5a1e05a0e76be65eade9ab3_240x180.jpg
+66,Toyota Camry,"2018 г., 2.5 л., автомат седан, бензин руль слева, 150 000 км",$ 24 500,https://im.mashina.kg/tachka/images//9/0/9/9099f938fe87b20989208a1bacc983b0_240x180.jpg
+67,BMW 5 серии,"2017 г., 3 л., автомат седан, бензин руль слева, 75 000 км",$ 43 500,https://im.mashina.kg/tachka/images//d/4/8/d48b35cb193830807c642d0d3182f629_240x180.jpg
+68,Toyota RAV4,"2014 г., 2 л., вариатор внедорожник 5 дв., бензин руль слева, 93 000 км",$ 22 000,https://im.mashina.kg/tachka/images//0/9/d/09d23702282b8454e328c733e89ebde3_240x180.jpg
+69,Kia K5 III Седан,"2020 г., 1.6 л., автомат седан, бензин руль слева, 34 800 км",$ 27 900,https://im.mashina.kg/tachka/images//9/d/9/9d98403e4fd996a5e273a341770eb405_240x180.jpg
+70,Toyota Avalon,"2017 г., 2.5 л., вариатор седан, гибрид руль слева, 130 000 км",$ 25 000,https://im.mashina.kg/tachka/images//2/a/b/2abacafecd3533685ef72b6f460f29b2_240x180.jpg
+71,BMW X5,"2005 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 306 000 км",$ 14 900,https://im.mashina.kg/tachka/images//5/d/2/5d28884db944ccae7486513356462313_240x180.jpg
+72,Hyundai Sonata,"2017 г., 2 л., автомат седан, газ руль слева, 209 500 км",$ 15 800,https://im.mashina.kg/tachka/images//0/6/a/06ab58fd2adb90363d353385a33347e7_240x180.jpg
+73,Lexus RX,"2009 г., 3.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 207 000 км",$ 23 000,https://im.mashina.kg/tachka/images//8/6/9/869e0addadd7c77367e0ba88e9c52ef0_240x180.jpg
+74,Honda Jazz,"2008 г., 1.3 л., вариатор хэтчбек 5 дв., бензин руль слева, 189 000 км",$ 9 500,https://im.mashina.kg/tachka/images//5/4/f/54f781f20da945ba22b1c2aaf8e31526_240x180.jpg
+75,Toyota RAV4,"2020 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 6 300 км",$ 32 500,https://im.mashina.kg/tachka/images//9/5/4/954a0ee30dac55b088086b8611336ab0_240x180.jpg
+76,Toyota Camry,"2016 г., 2.5 л., автомат седан, бензин руль слева, 180 000 км",$ 25 500,https://im.mashina.kg/tachka/images//c/0/3/c0357c0ef48e16caba115d43f5cc4d5c_240x180.jpg
+77,Mitsubishi Montero Sport,"2022 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 88 км",$ 45 500,https://im.mashina.kg/tachka/images//1/a/1/1a1125ccf92c57572617d032e7eb5fad_240x180.jpg
+78,Jetour X70S,"2022 г., 1.5 л., автомат внедорожник 5 дв., бензин руль слева, 1 км",$ 24 000,https://im.mashina.kg/tachka/images//1/e/c/1ec23fd62415fa504d8484d8d7f566c2_240x180.jpg
+79,Jetour Dashing,"2023 г., 1.6 л., робот внедорожник 5 дв., бензин руль слева, 1 км",$ 32 500,https://im.mashina.kg/tachka/images//d/d/a/dda0f7cb316915c40b5bd0f90578cda6_240x180.jpg
+80,Mitsubishi Outlander,"2022 г., 2 л., вариатор внедорожник 5 дв., бензин руль слева",$ 32 500,https://im.mashina.kg/tachka/images//7/c/2/7c2b268496af180084858be1b3dad5f3_240x180.jpg
+81,Hyundai Elantra,"2018 г., 2 л., автомат хэтчбек 5 дв., бензин руль слева, 25 000 км",$ 15 800,https://im.mashina.kg/tachka/images//b/c/a/bca6a26928486ab4f1043433097b9398_240x180.jpg
+82,Toyota Camry,"2014 г., 2.5 л., автомат седан, бензин руль слева, 50 000 км",$ 16 500,https://im.mashina.kg/tachka/images//d/5/3/d533bb646f3eda6bb44b7ca8de4e1b16_240x180.jpg
+83,Toyota Camry,"2018 г., 2.5 л., автомат седан, бензин руль слева, 151 000 км",$ 22 900,https://im.mashina.kg/tachka/images//3/7/3/37358152e99de41dc31daa8e8b17614e_240x180.jpg
+84,Kia Carnival,"2021 г., 2.2 л., автомат минивэн, дизель руль слева, 15 000 км",$ 48 500,https://im.mashina.kg/tachka/images//7/9/1/7914b9c7cbb47074e9cf9a97ec14fa44_240x180.jpg
+85,Toyota Aristo,"2003 г., 3 л., автомат седан, бензин руль справа, 281 407 км",$ 6 500,https://im.mashina.kg/tachka/images//6/5/8/658bbc8bdc4b5b0a36bb77539b48a4d7_240x180.jpg
+86,Lexus NX,"2017 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 70 000 км",$ 31 000,https://im.mashina.kg/tachka/images//c/8/6/c869def4fd6b4370cf23f7de20424d6d_240x180.jpg
+87,Toyota Land Cruiser Prado,"2020 г., 4 л., автомат внедорожник 5 дв., бензин руль слева, 41 000 км",$ 78 500,https://im.mashina.kg/tachka/images//d/0/6/d06c373c089833cdfad66bb56baef4b8_240x180.jpg
+88,Toyota RAV4,"2018 г., 2.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 120 000 км",$ 26 000,https://im.mashina.kg/tachka/images//a/3/c/a3ca97234629c93497ee1fe46d07a6b2_240x180.jpg
+89,Toyota Land Cruiser Prado,"2022 г., 4 л., автомат внедорожник 5 дв., бензин руль слева, 27 000 км",$ 80 500,https://im.mashina.kg/tachka/images//1/3/f/13f7c1b246fd3525cb11d854abf2fad3_240x180.jpg
+90,Lexus LX,"2004 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 281 635 км",$ 27 000,https://im.mashina.kg/tachka/images//a/0/1/a0166ffb13c6fecaa17707a0bdc16fcb_240x180.jpg
+91,Toyota Crown,"2009 г., 3.5 л., автомат седан, бензин руль справа, 150 000 км",$ 14 000,https://im.mashina.kg/tachka/images//2/f/6/2f614f56b307297cffada3fe1df75dbc_240x180.jpg
+92,Toyota Ist,"2003 г., 1.5 л., автомат хэтчбек 5 дв., бензин руль справа, 250 000 км",$ 6 900,https://im.mashina.kg/tachka/images//7/0/d/70d2cfd539ba4aab0e72b2a030e4ae5a_240x180.jpg
+93,Toyota RAV4,"2016 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 32 000 км",$ 21 700,https://im.mashina.kg/tachka/images//5/5/d/55dd6aa7fe8732ba60fb130ad6a77364_240x180.jpg
+94,Toyota Mark II,"2003 г., 2 л., автомат седан, бензин руль справа, 98 000 км",$ 8 500,https://im.mashina.kg/tachka/images//3/d/b/3db7efdd4d3b593a59698f2373865d8b_240x180.jpg
+95,Toyota Camry,"2013 г., 2.5 л., автомат седан, бензин руль слева, 125 000 км",$ 12 800,https://im.mashina.kg/tachka/images//c/1/8/c1869dc6392e432e974ebeb3e6dc3bd1_240x180.jpg
+96,Lexus LX,"2018 г., 5.7 л., автомат внедорожник 5 дв., бензин руль слева, 45 000 км",$ 89 999,https://im.mashina.kg/tachka/images//4/6/5/46549fbd056fe97706f147b3116ff8c5_240x180.jpg
+97,Toyota Highlander,"2011 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 194 000 км",$ 22 700,https://im.mashina.kg/tachka/images//9/1/e/91e7e2263ccaf908c3294991a9bf951c_240x180.jpg
+98,Lexus GX,"2005 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 147 000 км",$ 25 800,https://im.mashina.kg/tachka/images//4/2/6/4266f2a17ea30d17a4ef5c8a4be2d3b6_240x180.jpg
+99,Kia K5 II Седан,"2019 г., 2 л., автомат седан, газ руль слева, 150 000 км",$ 15 500,https://im.mashina.kg/tachka/images//3/9/5/395b6e9489553a30bdc05cc2be97f2f5_240x180.jpg
+100,Mercedes-Benz G-класс,"2001 г., 4 л., автомат внедорожник 5 дв., дизель руль слева, 240 000 км",$ 19 900,https://im.mashina.kg/tachka/images//a/b/3/ab3e9c89e5eaac842f0ad2ff0a564eb8_240x180.jpg
+101,Toyota RAV4,"2016 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 73 000 км",$ 19 300,https://im.mashina.kg/tachka/images//4/b/2/4b2ab2af30f8a4411f227798d8629d15_240x180.jpg
+102,Toyota Camry,"2018 г., 2.5 л., вариатор седан, гибрид руль слева, 60 000 км",$ 32 000,https://im.mashina.kg/tachka/images//9/c/f/9cf3108dbf59f6f8e2218ad5347dbc88_240x180.jpg
+103,Toyota Highlander,"2010 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 145 000 км",$ 24 000,https://im.mashina.kg/tachka/images//e/2/c/e2c146b7ba766c6ca93cd11e06e36271_240x180.jpg
+104,BMW X7,"2020 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 33 666 км",$ 87 000,https://im.mashina.kg/tachka/images//d/5/1/d51b498c29bb400cca4d3dbf19dd089c_240x180.jpg
+105,Kia Seltos,"2019 г., 1.6 л., робот внедорожник 5 дв., дизель руль слева, 125 000 км",$ 22 900,https://im.mashina.kg/tachka/images//c/5/e/c5ebc93693b290c5084d843ee4843a98_240x180.jpg
+106,Porsche Cayenne,"2013 г., 4.8 л., автомат внедорожник 5 дв., бензин руль слева, 84 000 км",$ 38 000,https://im.mashina.kg/tachka/images//1/7/b/17bb941c397cda19e54ce383c84acda5_240x180.jpg
+107,Kia K5 II Седан,"2016 г., 2 л., автомат седан, газ руль слева, 273 000 км",$ 12 500,https://im.mashina.kg/tachka/images//3/3/f/33fc6de3040b88b21e60cc189883dd42_240x180.jpg
+108,BMW 5 серии,"2017 г., 3 л., автомат седан, бензин руль слева, 61 000 км",$ 45 000,https://im.mashina.kg/tachka/images//3/e/3/3e3c52acbb411942d467beba7e4eed04_240x180.jpg
+109,Kia Carnival,"2016 г., 2.2 л., автомат минивэн, дизель руль слева, 218 000 км",$ 19 700,https://im.mashina.kg/tachka/images//0/5/1/051ffbb70d64d81c77a63a2d67d081d9_240x180.jpg
+110,Lexus RX,"2015 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 99 000 км",$ 33 000,https://im.mashina.kg/tachka/images//b/7/c/b7ce437e84390d1f13fcb57d2ad58c52_240x180.jpg
+111,Toyota RAV4,"2021 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 34 000 км",$ 33 500,https://im.mashina.kg/tachka/images//f/c/6/fc673f5b1248e76ac1ad4728a3805968_240x180.jpg
+112,Mercedes-Benz E-класс,"2001 г., 4.3 л., автомат седан, бензин руль слева, 300 000 км",$ 8 500,https://im.mashina.kg/tachka/images//7/b/b/7bbec3f4183658b765906193890908ee_240x180.jpg
+113,Toyota Camry,"2016 г., 2.5 л., автомат седан, бензин руль слева, 999 999 км",$ 14 499,https://im.mashina.kg/tachka/images//8/2/4/824e2c109af8d488d690b77486db9241_240x180.jpg
+114,Toyota Wish,"2009 г., 1.8 л., вариатор минивэн, бензин руль слева, 195 000 км",$ 9 999,https://im.mashina.kg/tachka/images//5/8/f/58fcc470cc3b99a98502f41c4b9ff94c_240x180.jpg
+115,Mercedes-Benz S-класс,"2013 г., 4.7 л., автомат седан, бензин руль слева, 144 000 км",$ 49 500,https://im.mashina.kg/tachka/images//6/d/4/6d4d13791f8f8ae69dd5d44ebbff28cb_240x180.jpg
+116,Toyota Land Cruiser Prado,"2019 г., 2.8 л., автомат внедорожник 5 дв., дизель руль слева, 35 000 км",$ 67 500,https://im.mashina.kg/tachka/images//4/c/7/4c7ee1476838d4391dd853a25606563c_240x180.jpg
+117,Toyota Highlander,"2020 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 70 000 км",$ 68 500,https://im.mashina.kg/tachka/images//e/e/d/eed94d2fb5bef7c6cec6042ecfa2716a_240x180.jpg
+118,Hyundai Sonata,"2017 г., 2 л., автомат седан, газ руль слева, 150 000 км",$ 14 000,https://im.mashina.kg/tachka/images//3/c/0/3c089b782e7610dfca85691c0412c2e7_240x180.jpg
+119,Honda Inspire,"2004 г., 3 л., автомат седан, бензин руль справа, 235 640 км",$ 7 510,https://im.mashina.kg/tachka/images//9/d/9/9d93d7bf89622ea31145eead4c33eaf6_240x180.jpg
+120,Lexus ES,"2016 г., 2.5 л., вариатор седан, гибрид руль слева, 148 000 км",$ 27 900,https://im.mashina.kg/tachka/images//c/0/8/c0827ab763d4b5a98b8064c3e3b0dfa5_240x180.jpg
+121,BMW X7,"2020 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 29 000 км",$ 125 000,https://im.mashina.kg/tachka/images//3/1/3/313eb50c09e264c59e274f8d7c451ba6_240x180.jpg
+122,Lexus NX,"2015 г., 2.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 160 000 км",$ 33 000,https://im.mashina.kg/tachka/images//e/9/e/e9ecbb8cd4777af998e1332f598fc485_240x180.jpg
+123,Kia Sorento,"2017 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 120 000 км",$ 23 000,https://im.mashina.kg/tachka/images//5/6/c/56cb72b38ab99686a6857e5c82aaaa11_240x180.jpg
+124,Hyundai Sonata,"2015 г., 2 л., автомат седан, газ руль слева, 212 000 км",$ 11 800,https://im.mashina.kg/tachka/images//e/3/0/e303bb23f5ca085a4613949a00bd9567_240x180.jpg
+125,Kia Sorento,"2020 г., 2.2 л., робот внедорожник 5 дв., дизель руль слева, 85 000 км",$ 33 500,https://im.mashina.kg/tachka/images//e/2/4/e24990b12afe43338bec7d79ee80deee_240x180.jpg
+126,Toyota Camry,"2007 г., 2.4 л., автомат седан, бензин руль слева, 156 500 км",$ 11 300,https://im.mashina.kg/tachka/images//a/6/f/a6fe17d49b0d3fd7f828b1e22f0a74c2_240x180.jpg
+127,Toyota Camry,"2019 г., 2.5 л., вариатор седан, гибрид руль слева, 107 000 км",$ 27 000,https://im.mashina.kg/tachka/images//5/b/1/5b14d5c834b6cd7539aa03333927b648_240x180.jpg
+128,Subaru Outback,"2016 г., 2.5 л., вариатор универсал, бензин руль слева, 101 000 км",$ 21 500,https://im.mashina.kg/tachka/images//7/2/8/728f407991fa3eb528a6eeae563e849f_240x180.jpg
+129,Hyundai Santa Fe,"2018 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 97 000 км",$ 30 000,https://im.mashina.kg/tachka/images//b/f/9/bf9c05bf6edc2117d1c2549a8171b1a3_240x180.jpg
+130,Lexus RX,"2016 г., 3.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 144 000 км",$ 52 500,https://im.mashina.kg/tachka/images//0/3/1/031fcbe745c3bbc05664b308c4fee4d3_240x180.jpg
+131,BMW X5,"2018 г., 4.4 л., автомат внедорожник 5 дв., бензин руль слева, 91 000 км",$ 95 000,https://im.mashina.kg/tachka/images//1/6/2/162d681d9207c86c69c9bdf49d56c22e_240x180.jpg
+132,BMW 1 серии,"2008 г., 3 л., автомат купе, бензин руль слева, 63 000 км",$ 19 800,https://im.mashina.kg/tachka/images//c/b/f/cbf278dc6732e4556c9d3cfa61f084a7_240x180.jpg
+133,Toyota Camry,"2017 г., 2.5 л., автомат седан, бензин руль слева, 116 000 км",$ 18 299,https://im.mashina.kg/tachka/images//d/7/1/d71a5d7b01e60f198e30ff642d678859_240x180.jpg
+134,Kia Sportage,"2016 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 140 000 км",$ 20 500,https://im.mashina.kg/tachka/images//9/e/f/9ef864014a3c059c9c8d0b07bc24fb7d_240x180.jpg
+135,Hyundai Santa Fe,"2018 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 87 000 км",$ 30 000,https://im.mashina.kg/tachka/images//a/9/e/a9e628dfa90532ebecd4c9832ec522e9_240x180.jpg
+136,Kia K7,"2018 г., 3 л., автомат седан, газ руль слева, 211 000 км",$ 16 900,https://im.mashina.kg/tachka/images//1/1/0/110c514cd49e4e09e1df06fe74f063d1_240x180.jpg
+137,Toyota Camry,"2017 г., 2.5 л., автомат седан, бензин руль слева, 100 000 км",$ 17 999,https://im.mashina.kg/tachka/images//5/3/4/534d9638877b7fd89ad97fea095daece_240x180.jpg
+138,Genesis G80,"2022 г., 2.5 л., автомат седан, бензин руль слева, 17 900 км",$ 58 000,https://im.mashina.kg/tachka/images//4/e/2/4e23f5da9ec99eed14b9271e26dec7d4_240x180.jpg
+139,Lexus ES,"2019 г., 2.5 л., вариатор седан, гибрид руль слева, 60 000 км",$ 55 000,https://im.mashina.kg/tachka/images//a/e/c/aec29cd72b52e657a64e484a26eabc23_240x180.jpg
+140,Toyota Prius,"2017 г., 1.8 л., вариатор хэтчбек 5 дв., гибрид руль слева, 193 000 км",$ 12 700,https://im.mashina.kg/tachka/images//5/6/1/561937b37647cd2c4bc7c822f38df482_240x180.jpg
+141,BMW X5,"2018 г., 4.4 л., автомат внедорожник 5 дв., бензин руль слева, 46 700 км",$ 60 000,https://im.mashina.kg/tachka/images//9/6/5/96573e539e3d6579052487f9801eb218_240x180.jpg
+142,Hyundai Tucson,"2016 г., 1.7 л., робот внедорожник 5 дв., дизель руль слева, 132 000 км",$ 16 500,https://im.mashina.kg/tachka/images//3/f/3/3f3fb40ef994b4d2f0155f930b75b23b_240x180.jpg
+143,Toyota Camry,"2012 г., 2.5 л., автомат седан, бензин руль слева, 150 000 км",$ 14 300,https://im.mashina.kg/tachka/images//f/0/3/f03a2e245cbbb6fb62178cda8341522b_240x180.jpg
+144,Kia Sportage,"2017 г., 2.4 л., автомат внедорожник 5 дв., бензин руль слева, 57 000 км",$ 24 300,https://im.mashina.kg/tachka/images//c/1/0/c10fcb322d82e4169ef0b57e77255d05_240x180.jpg
+145,Honda Fit,"2004 г., 1.5 л., вариатор хэтчбек 5 дв., бензин руль справа, 266 000 км",$ 7 200,https://im.mashina.kg/tachka/images//5/e/3/5e39830a975eee969558e877052217ce_240x180.jpg
+146,Hyundai Santa Fe,"2019 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 81 000 км",$ 25 500,https://im.mashina.kg/tachka/images//0/4/e/04e691c7980b56c0c33235d14ea3bb06_240x180.jpg
+147,Toyota Camry,"2017 г., 2.5 л., вариатор седан, гибрид руль слева, 112 000 км",$ 20 300,https://im.mashina.kg/tachka/images//9/4/0/940ac29351ccfc315e5607d59818bf14_240x180.jpg
+148,BMW X6,"2016 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 70 000 км",$ 42 400,https://im.mashina.kg/tachka/images//3/6/c/36ca7bdcbcbbaa821a7fa67c6a5fe900_240x180.jpg
+149,Toyota Corolla,"2015 г., 1.8 л., автомат седан, бензин руль слева, 100 000 км",$ 12 500,https://im.mashina.kg/tachka/images//4/c/1/4c11f9bafd101cb4c562df418b49210e_240x180.jpg
+150,Kia Morning,"2017 г., 1 л., автомат хэтчбек 5 дв., бензин / газ руль слева, 135 000 км",$ 8 900,https://im.mashina.kg/tachka/images//d/f/a/dfa91807f402d90b6d60c32df0bbe486_240x180.jpg
+151,Toyota Camry,"2009 г., 2.5 л., автомат седан, бензин руль слева, 147 800 км",$ 11 800,https://im.mashina.kg/tachka/images//a/9/4/a9483e4556ca125d5ccf194ac782134b_240x180.jpg
+152,Subaru Ascent,"2018 г., 2.4 л., вариатор внедорожник 5 дв., бензин руль слева, 67 000 км",$ 38 000,https://im.mashina.kg/tachka/images//4/f/0/4f0fae35a2c520e70a60a3328946b868_240x180.jpg
+153,Kia Morning,"2017 г., 1 л., автомат хэтчбек 5 дв., бензин руль слева, 38 000 км",$ 8 800,https://im.mashina.kg/tachka/images//5/4/a/54ad0bd48d7df91e9244ba85dd279d77_240x180.jpg
+154,Mercedes-Benz C-Класс,"2018 г., 2.1 л., автомат седан, дизель руль слева, 105 000 км",$ 23 000,https://im.mashina.kg/tachka/images//a/1/3/a13a679ddbafb3a3da6255ca1be218ce_240x180.jpg
+155,Toyota Land Cruiser,"2008 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 178 246 км",$ 31 500,https://im.mashina.kg/tachka/images//b/8/5/b850cc7a8d20836797bb77efd62c1d2a_240x180.jpg
+156,BMW X5,"2017 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 117 000 км",$ 35 500,https://im.mashina.kg/tachka/images//3/3/7/3379c560e5b5f7aa9269c62da4e329e5_240x180.jpg
+157,Toyota Camry,"2019 г., 2.5 л., вариатор седан, гибрид руль слева, 150 000 км",$ 27 000,https://im.mashina.kg/tachka/images//2/9/e/29e8c2956a3a1ea3e07d8328a89469d0_240x180.jpg
+158,Audi A6,"2005 г., 2.4 л., вариатор седан, бензин руль слева, 180 000 км",$ 7 900,https://im.mashina.kg/tachka/images//6/0/f/60fc08374f4ecfd311a9373ada32cdfe_240x180.jpg
+159,Mercedes-Benz E-класс,"2011 г., 2.1 л., автомат седан, дизель руль слева, 230 000 км",$ 14 500,https://im.mashina.kg/tachka/images//9/d/8/9d8b4425b1c1bba96a436d511e2f4e3b_240x180.jpg
+160,Lexus CT,"2014 г., 1.8 л., вариатор хэтчбек 5 дв., гибрид руль слева, 130 000 км",$ 16 999,https://im.mashina.kg/tachka/images//f/2/b/f2b2d282e60c6efe1ac7ad389aae7cd0_240x180.jpg
+161,Land Rover Range Rover,"2018 г., 5 л., автомат внедорожник 5 дв., бензин руль слева, 70 000 км",$ 135 000,https://im.mashina.kg/tachka/images//e/0/0/e0077a0da5f072a1af071f2fed159bb6_240x180.jpg
+162,Nissan Serena,"2002 г., 2 л., вариатор минивэн, бензин руль справа, 176 000 км",$ 3 983,https://im.mashina.kg/tachka/images//4/b/4/4b40e2955bff6b0adcafcf23005266f7_240x180.jpg
+163,Hyundai Palisade,"2020 г., 3.8 л., автомат внедорожник 5 дв., бензин руль слева, 26 048 км",$ 40 000,https://im.mashina.kg/tachka/images//a/4/5/a45d801062f3fabd89e965cd73ed8576_240x180.jpg
+164,Geely Monjaro,"2022 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 14 000 км",$ 35 000,https://im.mashina.kg/tachka/images//e/e/4/ee457a970f5ed4f6f3be862b3bbeec37_240x180.jpg
+165,Toyota Camry,"2022 г., 2.5 л., автомат седан, бензин руль слева",$ 39 000,https://im.mashina.kg/tachka/images//b/2/d/b2da5d4395820d8f4f23812b85acdcf3_240x180.jpg
+166,Volkswagen ID.4,"2022 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 43 500,https://im.mashina.kg/tachka/images//3/c/e/3ced9915038879d8e5de816d7fadb8ef_240x180.jpg
+167,Lexus GX,"2006 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 250 000 км",$ 25 000,https://im.mashina.kg/tachka/images//1/1/b/11bdebb0e5034187650ccca240e2613b_240x180.jpg
+168,Kia K5 II Седан,"2016 г., 2 л., автомат седан, газ руль слева, 135 000 км",$ 13 500,https://im.mashina.kg/tachka/images//8/8/d/88dcc626327977c237a4a1bb78818aa7_240x180.jpg
+169,Toyota Avalon,"2020 г., 2.5 л., вариатор седан, гибрид руль слева, 30 000 км",$ 36 500,https://im.mashina.kg/tachka/images//c/0/5/c05f2c2cafdc5b6df749acdddc8e8e2d_240x180.jpg
+170,Nissan Pathfinder,"2005 г., 4 л., автомат внедорожник 5 дв., бензин руль слева, 138 000 км",$ 11 500,https://im.mashina.kg/tachka/images//0/0/f/00f7864c4c2162711edc92b95ef81186_240x180.jpg
+171,Toyota Camry,"2017 г., 2.5 л., автомат седан, бензин руль слева, 118 000 км",$ 21 500,https://im.mashina.kg/tachka/images//6/e/e/6ee197885d959a00e87b25e62f9069d0_240x180.jpg
+172,Kia Sorento,"2016 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 61 000 км",$ 21 900,https://im.mashina.kg/tachka/images//3/b/8/3b84a6c36844906ff8e51d1f2ba4ef17_240x180.jpg
+173,BYD Yuan,"2022 г., автомат внедорожник 5 дв., электро руль слева, 500 км",$ 29 900,https://im.mashina.kg/tachka/images//6/8/4/684d2acfd2726b6695f1b906eea0cf91_240x180.jpg
+174,BMW X5,"2003 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 260 000 км",$ 9 900,https://im.mashina.kg/tachka/images//e/f/4/ef43baae74a4e6b7e69c2a11a81ea097_240x180.jpg
+175,Toyota Camry,"2018 г., 2.5 л., автомат седан, бензин руль слева, 8 000 км",$ 19 600,https://im.mashina.kg/tachka/images//4/9/5/49547f837c3d92053751363c81ddec87_240x180.jpg
+176,Kia K5 II Седан,"2016 г., 2 л., автомат седан, газ руль слева, 152 174 км",$ 13 800,https://im.mashina.kg/tachka/images//f/8/3/f8309cf0c7f7f41935147356f126e6eb_240x180.jpg
+177,Toyota Land Cruiser,"2014 г., 4.6 л., автомат внедорожник 5 дв., бензин руль слева, 85 000 км",$ 45 000,https://im.mashina.kg/tachka/images//f/7/e/f7e094ac7d173ca13a56689217dd8720_240x180.jpg
+178,Toyota Camry,"2016 г., 2.5 л., вариатор седан, гибрид руль слева, 91 000 км",$ 23 900,https://im.mashina.kg/tachka/images//5/3/2/5325c97ccdfa9bb49f7fa56dff4e09fc_240x180.jpg
+179,Kia Carnival,"2017 г., 2.2 л., автомат минивэн, дизель руль слева, 136 000 км",$ 25 500,https://im.mashina.kg/tachka/images//e/d/2/ed2079903b9635b5c1f9bf74f6fca855_240x180.jpg
+180,Toyota Camry,"2016 г., 2.5 л., автомат седан, бензин руль слева, 109 000 км",$ 15 900,https://im.mashina.kg/tachka/images//c/d/c/cdc43dea57349a96a0a64d80674ca9d9_240x180.jpg
+181,Hyundai Santa Fe,"2016 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 139 000 км",$ 18 500,https://im.mashina.kg/tachka/images//1/2/0/120b54149976c1b5ffa1bd06d2e8179e_240x180.jpg
+182,Subaru Forester,"2019 г., 2.5 л., вариатор внедорожник 5 дв., бензин руль слева, 150 000 км",$ 23 000,https://im.mashina.kg/tachka/images//7/6/6/7664e7e9859de5ee2fbd97b4364d70c2_240x180.jpg
+183,Honda CR-V,"2017 г., 2.4 л., вариатор внедорожник 5 дв., бензин руль слева, 40 000 км",$ 22 900,https://im.mashina.kg/tachka/images//f/7/f/f7fda65fb1805a8a488bc9a4a8fbe31e_240x180.jpg
+184,Toyota Highlander,"2011 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 160 000 км",$ 25 000,https://im.mashina.kg/tachka/images//1/d/2/1d23bda3f308b4bd52db0b9d3fd3c64a_240x180.jpg
+185,Mercedes-Benz S-класс,"2004 г., 3.7 л., автомат седан, бензин руль слева, 220 000 км",$ 10 000,https://im.mashina.kg/tachka/images//7/b/6/7b62f8a684f6aa24b8945599fd382095_240x180.jpg
+186,Toyota RAV4,"2018 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 117 555 км",$ 21 999,https://im.mashina.kg/tachka/images//5/5/a/55a389961b61c84cd50ad16343af98a6_240x180.jpg
+187,Subaru Forester,"2016 г., 2.5 л., вариатор внедорожник 5 дв., бензин руль слева, 145 000 км",$ 16 700,https://im.mashina.kg/tachka/images//7/f/a/7fa080e8e206a05edd85d7068d32fa83_240x180.jpg
+188,Toyota RAV4,"2018 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 127 000 км",$ 22 000,https://im.mashina.kg/tachka/images//0/4/1/041d9675094d1e1633b84bbbe442388c_240x180.jpg
+189,Hyundai Sonata,"2016 г., 2 л., автомат седан, газ руль слева, 186 000 км",$ 11 999,https://im.mashina.kg/tachka/images//2/b/7/2b7f5bd3990d88b1a08afe5f2d4d1a12_240x180.jpg
+190,BMW X5,"2022 г., 3 л., автомат внедорожник 5 дв., гибрид руль слева, 35 км",$ 132 000,https://im.mashina.kg/tachka/images//b/4/d/b4d811714b1c7a3c6aa44ee2942b02b7_240x180.jpg
+191,Hyundai Palisade,"2020 г., 3.8 л., автомат внедорожник 5 дв., бензин руль слева, 30 000 км",$ 43 000,https://im.mashina.kg/tachka/images//1/b/a/1bacda34a3bb5bfb379cb6c92d7c922b_240x180.jpg
+192,Genesis GV80,"2021 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 72 600 км",$ 77 000,https://im.mashina.kg/tachka/images//2/f/b/2fbbaea8d9ed19345d82d38407be3c15_240x180.jpg
+193,Kia Sportage,"2020 г., 2.4 л., автомат внедорожник 5 дв., бензин руль слева, 17 000 км",$ 30 000,https://im.mashina.kg/tachka/images//e/c/5/ec5584b16e98c1388e9f2a25a935225c_240x180.jpg
+194,Hyundai Sonata,"2016 г., 2 л., автомат седан, бензин руль слева, 93 580 км",$ 13 900,https://im.mashina.kg/tachka/images//c/b/5/cb56ca209f4fcb03820f4ab6814ae6ad_240x180.jpg
+195,BMW X5,"2017 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 100 000 км",$ 45 000,https://im.mashina.kg/tachka/images//9/3/6/9364b76f39693cb08f956a21cbcdf51f_240x180.jpg
+196,Hyundai Elantra,"2019 г., 2 л., автомат седан, бензин руль слева, 12 000 км",$ 14 400,https://im.mashina.kg/tachka/images//e/b/4/eb46dc9c43610a7d15185389b6e22f92_240x180.jpg
+197,BMW 7 серии,"2015 г., 3 л., автомат седан, дизель руль слева, 40 000 км",$ 50 000,https://im.mashina.kg/tachka/images//f/c/3/fc313098eeec55cc88bcde7edcd7a921_240x180.jpg
+198,Lexus RX,"2006 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 290 000 км",$ 14 800,https://im.mashina.kg/tachka/images//7/7/0/770012b96b908b56e071139f14b12335_240x180.jpg
+199,Lexus GX,"2008 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 156 500 км",$ 33 800,https://im.mashina.kg/tachka/images//c/4/9/c4999f941864726ae5ec507382bfd565_240x180.jpg
+200,Chevrolet Traverse,"2019 г., 3.6 л., автомат внедорожник 5 дв., бензин руль слева, 57 000 км",$ 26 500,https://im.mashina.kg/tachka/images//5/4/1/541cde2921df68936b61a3747fd3a368_240x180.jpg
+201,Kia Sorento,"2016 г., 2.2 л., автомат внедорожник 5 дв., дизель руль слева, 177 915 км",$ 25 000,https://im.mashina.kg/tachka/images//3/4/6/346fe68ff2b390ab51cdd1953b425228_240x180.jpg
+202,Honda Accord,"2020 г., 1.5 л., вариатор седан, бензин руль слева, 45 000 км",$ 22 500,https://im.mashina.kg/tachka/images//2/0/9/20974eddbdade2e27dfd09028066d266_240x180.jpg
+203,Toyota RAV4,"2019 г., 2.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 32 000 км",$ 39 900,https://im.mashina.kg/tachka/images//a/5/0/a50dd134b1021d4822cb1c8de8db13bf_240x180.jpg
+204,Lexus GX,"2010 г., 4.6 л., автомат внедорожник 5 дв., бензин руль слева, 190 000 км",$ 35 000,https://im.mashina.kg/tachka/images//8/f/5/8f5336f1b0b3aa63c15c7f7f95c7e0f6_240x180.jpg
+205,Kia Carnival,"2021 г., 2.2 л., автомат минивэн, дизель руль слева, 31 000 км",$ 44 200,https://im.mashina.kg/tachka/images//d/2/7/d27a8cb4d5b85b31fb81258f2b4c3f1a_240x180.jpg
+206,Lexus NX,"2016 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 149 000 км",$ 30 800,https://im.mashina.kg/tachka/images//2/6/8/268c9e61231ef6b723a05ae58039aad5_240x180.jpg
+207,Toyota Crown,"2004 г., 2.5 л., автомат седан, бензин руль справа, 215 000 км",$ 8 000,https://im.mashina.kg/tachka/images//5/0/a/50a8de5b5d93262db399a697f39237d1_240x180.jpg
+208,Weltmeister EX5,"2021 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 21 000,https://im.mashina.kg/tachka/images//9/9/4/994a5333912f5cefbd72d0c2a6fd6441_240x180.jpg
+209,Toyota RAV4,"2018 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 39 000 км",$ 25 500,https://im.mashina.kg/tachka/images//3/7/f/37f0df4317584a7b4dc3d03fb7785c0f_240x180.jpg
+210,Mercedes-Benz C-Класс,"1995 г., 2.2 л., механика седан, дизель руль слева, 250 000 км",$ 3 500,https://im.mashina.kg/tachka/images//8/b/0/8b0cfe3203c6d0a2cdf5761b1f9a4745_240x180.jpg
+211,Kia Carnival,"2021 г., 2.2 л., автомат минивэн, дизель руль слева, 4 000 км",$ 41 900,https://im.mashina.kg/tachka/images//c/5/2/c52db4ffdb60679c15360330aa9af7df_240x180.jpg
+212,Toyota Celsior,"2004 г., 4.3 л., автомат седан, бензин руль справа, 198 000 км",$ 13 800,https://im.mashina.kg/tachka/images//e/7/2/e727dd93f6007678914756a40e1fa858_240x180.jpg
+213,Volkswagen ID.6,"2022 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 37 000,https://im.mashina.kg/tachka/images//3/6/9/3697b50954b5da6d848579bac2b35479_240x180.jpg
+214,Honda e:NP1,"2022 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 28 000,https://im.mashina.kg/tachka/images//a/f/7/af741833724fda0349622fe6c3c0e479_240x180.jpg
+215,BYD Han,"2022 г., автомат седан, электро руль слева, 1 км",$ 43 000,https://im.mashina.kg/tachka/images//7/6/1/7614b15a03d72dcc6bd4ea46af0927bb_240x180.jpg
+216,Chevrolet Spark,"2014 г., 1 л., автомат хэтчбек 5 дв., бензин руль слева, 85 000 км",$ 7 000,https://im.mashina.kg/tachka/images//3/a/c/3ac4d08f6266322a8a03c5254033f3da_240x180.jpg
+217,BMW 5 серии,"2008 г., 4.8 л., автомат седан, бензин руль слева, 220 000 км",$ 18 000,https://im.mashina.kg/tachka/images//f/a/9/fa99e002467aa9d2e5404003eeeb2957_240x180.jpg
+218,Toyota RAV4,"2016 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 74 000 км",$ 21 900,https://im.mashina.kg/tachka/images//4/4/a/44ab72d87eb66d973a039b93aadfd8da_240x180.jpg
+219,Weltmeister EX5,"2021 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 21 000,https://im.mashina.kg/tachka/images//d/6/c/d6c820791503025d7b3bcdb2893d0d57_240x180.jpg
+220,BMW X7,"2020 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 89 000 км",$ 120 000,https://im.mashina.kg/tachka/images//0/0/e/00ea9b817f6c6b252b562290a6a39eb2_240x180.jpg
+221,Lexus RX,"2019 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 60 000 км",$ 49 500,https://im.mashina.kg/tachka/images//7/6/4/7642abb70270fd186311d7cd2f4f5ce2_240x180.jpg
+222,Honda e:NP1,"2022 г., автомат внедорожник 5 дв., электро руль слева, 1 км",$ 28 000,https://im.mashina.kg/tachka/images//5/2/9/529612407dd06e87c1ef584205d1e146_240x180.jpg
+223,Lexus RX,"2020 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 39 000 км",$ 71 000,https://im.mashina.kg/tachka/images//e/d/9/ed973381501597458e0dc4c7b50d9ce2_240x180.jpg
+224,Toyota Prius,"2016 г., 1.8 л., вариатор хэтчбек 5 дв., гибрид руль слева, 211 400 км",$ 16 800,https://im.mashina.kg/tachka/images//6/d/6/6d65dbe7b7e3dd48a8c5640ba4713587_240x180.jpg
+225,Land Rover Range Rover,"2019 г., 4.4 л., автомат внедорожник 5 дв., дизель руль слева, 87 000 км",$ 105 000,https://im.mashina.kg/tachka/images//6/2/3/623780f0ac352e945592beb58b34e0bc_240x180.jpg
+226,BMW X5,"2018 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 55 768 км",$ 85 000,https://im.mashina.kg/tachka/images//a/f/d/afdde128de9aef7a3489204ec4653259_240x180.jpg
+227,Kia Sorento,"2017 г., 2.2 л., автомат внедорожник 5 дв., дизель руль слева, 141 000 км",$ 28 500,No-image!
+228,Toyota Prius,"2012 г., 1.8 л., автомат хэтчбек 5 дв., гибрид руль слева, 240 000 км",$ 14 500,https://im.mashina.kg/tachka/images//c/1/c/c1cfed6b380663f5debf808d6991fda9_240x180.jpg
+229,Hyundai Santa Fe,"2018 г., 2.2 л., автомат внедорожник 5 дв., дизель руль слева, 115 000 км",$ 31 500,https://im.mashina.kg/tachka/images//1/0/d/10decb72af56a9f5c83b2072ff81fcf6_240x180.jpg
+230,BMW X7,"2020 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 68 000 км",$ 117 000,https://im.mashina.kg/tachka/images//c/3/c/c3c1eab5a0ed8a4848ac4c2e55921889_240x180.jpg
+231,BMW 7 серии,"2017 г., 4.4 л., автомат седан, бензин руль слева, 145 000 км",$ 53 900,https://im.mashina.kg/tachka/images//0/3/a/03a203de9be6474c5e41a002af625b60_240x180.jpg
+232,Toyota Camry,"2016 г., 2.5 л., автомат седан, бензин руль слева, 180 000 км",$ 16 900,https://im.mashina.kg/tachka/images//f/2/d/f2db553e5723944462652cc1b4f26545_240x180.jpg
+233,Lexus LX,"2007 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 228 000 км",$ 31 500,https://im.mashina.kg/tachka/images//c/9/f/c9f5e503167010ba90ad8181a9723c8b_240x180.jpg
+234,Hyundai Santa Fe,"2018 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 91 000 км",$ 27 000,https://im.mashina.kg/tachka/images//3/6/f/36f0448eca3e6da5c69cbf622f2f0848_240x180.jpg
+235,Ford Mondeo,"2001 г., 2 л., автомат универсал, бензин руль слева, 141 254 км",$ 3 983,https://im.mashina.kg/tachka/images//c/c/1/cc165331e6fb8313cacac9742840746d_240x180.jpg
+236,Kia K7,"2020 г., 3 л., автомат седан, газ руль слева, 55 000 км",$ 27 500,https://im.mashina.kg/tachka/images//8/7/d/87df19d915f8c5eb7361e11c4bed978d_240x180.jpg
+237,Lexus LX,"2008 г., 5.7 л., автомат внедорожник 5 дв., бензин руль слева, 260 000 км",$ 34 000,https://im.mashina.kg/tachka/images//1/d/7/1d7e0484725b4ad98f10ff0077ec404e_240x180.jpg
+238,Honda CR-V,"2009 г., 2.4 л., автомат внедорожник 5 дв., бензин руль слева, 220 000 км",$ 14 300,https://im.mashina.kg/tachka/images//9/9/d/99d3ea235eff4255150eb72ac0b49ba5_240x180.jpg
+239,Lexus GX,"2008 г., 4.7 л., автомат внедорожник 5 дв., бензин руль слева, 211 000 км",$ 30 500,https://im.mashina.kg/tachka/images//b/e/4/be499582f2d8fd7f54ba93579ca6dc4c_240x180.jpg
+240,Audi Q7,"2007 г., 4.2 л., автомат внедорожник 5 дв., бензин руль слева, 20 000 км",$ 18 800,https://im.mashina.kg/tachka/images//5/4/8/54860901d0b1e61fc6a45880e153c840_240x180.jpg
+241,Nissan X-Trail,"2003 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 20 000 км",$ 7 900,https://im.mashina.kg/tachka/images//0/6/3/063e47afeeec9012e447a178c45c4090_240x180.jpg
+242,Hyundai Creta,"2021 г., 2 л., автомат внедорожник 5 дв., бензин руль слева, 2 400 км",$ 25 800,https://im.mashina.kg/tachka/images//b/4/6/b469db6e682643bf4b736ea2c8af6318_240x180.jpg
+243,Nissan Juke,"2012 г., 1.6 л., вариатор внедорожник 5 дв., бензин руль слева, 100 000 км",$ 11 400,https://im.mashina.kg/tachka/images//3/a/a/3aa15c8be748af5c53e50158abf009aa_240x180.jpg
+244,Nissan Patrol,"2002 г., 3 л., механика внедорожник 5 дв., дизель руль слева, 99 900 км",$ 8 500,https://im.mashina.kg/tachka/images//0/e/e/0eecbdec4e09450a53cf5c739d77cafd_240x180.jpg
+245,Toyota Prius,"2018 г., 1.8 л., вариатор хэтчбек 5 дв., гибрид руль слева, 66 000 км",$ 16 900,https://im.mashina.kg/tachka/images//2/9/4/2944e302089cd721be1d167b1d790ae9_240x180.jpg
+246,Hyundai Grandeur,"2018 г., 3 л., автомат седан, бензин / газ руль слева, 109 446 км",$ 15 500,https://im.mashina.kg/tachka/images//4/9/b/49b8d109d522cc2e19506da5168b48c1_240x180.jpg
+247,Lexus RX,"2017 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 96 000 км",$ 44 000,https://im.mashina.kg/tachka/images//6/7/f/67f7d3f137d4e6096c48ef32f0f2d113_240x180.jpg
+248,BMW 6 серии,"2003 г., 4.4 л., автомат купе, бензин руль слева, 140 000 км",$ 19 000,https://im.mashina.kg/tachka/images//a/0/0/a00df3cc5d768598cfee17d3c0397415_240x180.jpg
+249,Hyundai Sonata,"2017 г., 2 л., автомат седан, газ руль слева, 255 000 км",$ 14 300,https://im.mashina.kg/tachka/images//f/2/5/f2573590cd4bfcdc7c6f71b3e5728177_240x180.jpg
+250,Toyota Avalon,"2014 г., 2.5 л., вариатор седан, гибрид руль слева, 128 800 км",$ 20 900,https://im.mashina.kg/tachka/images//6/a/a/6aa3c5e87af5cf585c1e15a6a78730fb_240x180.jpg
+251,Subaru Outback,"2014 г., 2.5 л., вариатор универсал, бензин руль слева, 214 000 км",$ 16 000,https://im.mashina.kg/tachka/images//c/3/3/c331b5e4f36245aa48b4071b681ec2f6_240x180.jpg
+252,Kia Carnival,"2017 г., 2.2 л., автомат минивэн, дизель руль слева, 137 000 км",$ 18 900,https://im.mashina.kg/tachka/images//a/4/a/a4a68f2189a34c28980c784251a3442f_240x180.jpg
+253,Kia Carnival,"2017 г., 2.2 л., автомат минивэн, дизель руль слева, 135 000 км",$ 19 000,https://im.mashina.kg/tachka/images//3/6/f/36fff736002e5f86e468961495083c1a_240x180.jpg
+254,Genesis G70,"2018 г., 2 л., автомат седан, бензин руль слева, 79 000 км",$ 25 000,https://im.mashina.kg/tachka/images//4/b/2/4b2ce3710e4693a19af0fc0a48e8d244_240x180.jpg
+255,Hyundai Sonata,"2015 г., 2 л., автомат седан, газ руль слева, 125 000 км",$ 13 500,https://im.mashina.kg/tachka/images//a/6/4/a64129ba79abd4b930e7c6d3b914eded_240x180.jpg
+256,Hyundai Santa Fe,"2018 г., 2.2 л., автомат внедорожник 5 дв., дизель руль слева, 140 000 км",$ 33 800,https://im.mashina.kg/tachka/images//a/d/c/adcfd4bbd26e3a30ae702780dbde8726_240x180.jpg
+257,Land Rover Discovery,"2004 г., 4.4 л., автомат внедорожник 5 дв., бензин руль слева, 250 000 км",$ 14 500,https://im.mashina.kg/tachka/images//3/a/5/3a590ba5fa6507cf5934983296c119c9_240x180.jpg
+258,Ford Focus,"2006 г., 1.6 л., механика универсал, бензин руль слева, 254 000 км",$ 4 893,https://im.mashina.kg/tachka/images//4/a/b/4abf87abe3d44b522a7fb59c37c78a39_240x180.jpg
+259,Opel Astra,"1992 г., 1.6 л., механика хэтчбек 5 дв., бензин руль слева, 240 000 км",$ 967,https://im.mashina.kg/tachka/images//a/f/4/af4cd8fa6dd1bc5d20f281f2fbe6d7aa_240x180.jpg
+260,Kia Mohave (Borrego),"2019 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 40 000 км",$ 50 500,https://im.mashina.kg/tachka/images//a/5/1/a5126db7ac11d65d2e071fb5fd07f255_240x180.jpg
+261,Kia Mohave (Borrego),"2019 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 40 000 км",$ 50 500,https://im.mashina.kg/tachka/images//a/5/1/a5126db7ac11d65d2e071fb5fd07f255_240x180.jpg
+262,Subaru Forester,"2009 г., 2.5 л., автомат внедорожник 5 дв., бензин руль слева, 188 000 км",$ 13 000,https://im.mashina.kg/tachka/images//c/b/e/cbe9961763c9fa9d263eb65fccf24462_240x180.jpg
+263,Honda Odyssey,"1995 г., 2.3 л., автомат минивэн, бензин руль справа, 284 065 км",$ 3 300,https://im.mashina.kg/tachka/images//d/6/4/d6425475362278c894680783d5ee8a94_240x180.jpg
+264,Kia Mohave (Borrego),"2019 г., 3 л., автомат внедорожник 5 дв., дизель руль слева, 40 000 км",$ 50 500,https://im.mashina.kg/tachka/images//c/3/e/c3e14bb112d8c3778fc4a4abfb757d24_240x180.jpg
+265,Hyundai Santa Fe,"2020 г., 2.2 л., робот внедорожник 5 дв., дизель руль слева, 30 000 км",$ 48 999,https://im.mashina.kg/tachka/images//3/4/8/348c1a2c0bde084de34d1a58e9c921ae_240x180.jpg
+266,Hyundai Santa Fe,"2020 г., 2.2 л., робот внедорожник 5 дв., дизель руль слева, 45 700 км",$ 40 499,https://im.mashina.kg/tachka/images//6/a/c/6aca6de834c8afc5c1130d342e3e7d04_240x180.jpg
+267,Nissan Pathfinder,"1997 г., 3.3 л., автомат внедорожник 5 дв., бензин руль слева, 360 000 км",$ 6 199,https://im.mashina.kg/tachka/images//4/2/1/42161bdc27dea3fa06bab419cccef203_240x180.jpg
+268,Toyota Alphard,"2006 г., 2.4 л., автомат минивэн, бензин руль слева, 140 002 км",$ 11 000,https://im.mashina.kg/tachka/images//6/0/d/60d1284c699c059ee7b92d573c6ef313_240x180.jpg
+269,Mercedes-Benz E-класс,"1998 г., 4.3 л., автомат седан, бензин руль слева, 250 000 км",$ 7 000,https://im.mashina.kg/tachka/images//6/b/1/6b120e0a97092eb4ca722f3614ea2870_240x180.jpg
+270,Mercedes-Benz E-класс,"2000 г., 3.2 л., автомат седан, бензин руль слева, 85 000 км",$ 7 100,https://im.mashina.kg/tachka/images//4/3/9/439f7e4124a6a1d3de66d9c948c194b2_240x180.jpg
+271,Toyota RAV4,"2019 г., 2.5 л., вариатор внедорожник 5 дв., гибрид руль слева, 85 000 км",$ 37 000,https://im.mashina.kg/tachka/images//8/a/9/8a9c53fa276c31d283d0bad71339050b_240x180.jpg
+272,Lexus ES,"2013 г., 2.5 л., вариатор седан, гибрид руль слева, 140 000 км",$ 21 800,https://im.mashina.kg/tachka/images//6/c/1/6c1e020740abc694f738c229617fa0af_240x180.jpg
+273,Toyota Camry,"2018 г., 2.5 л., автомат седан, бензин руль слева, 120 000 км",$ 22 800,https://im.mashina.kg/tachka/images//0/0/c/00c975843faa102d25add02b7ea85737_240x180.jpg
+274,ВАЗ (Lada) 2107,"2010 г., 1.6 л., механика седан, бензин руль слева, 100 000 км",$ 3 414,https://im.mashina.kg/tachka/images//2/a/e/2aebf4b50e53b50a8b47ed680dadda84_240x180.jpg
+275,Toyota Crown,"2008 г., 3.5 л., автомат седан, бензин руль справа, 181 000 км",$ 13 500,https://im.mashina.kg/tachka/images//8/0/c/80cdb021ebbdb9c89381dce158f14e84_240x180.jpg
+276,Toyota Camry (Japan),"2002 г., 2.4 л., автомат седан, бензин руль справа, 198 000 км",$ 8 700,https://im.mashina.kg/tachka/images//6/8/e/68e99218f3e23e7740816420d6045aec_240x180.jpg
+277,Mercedes-Benz E-класс,"2002 г., 4.3 л., автомат седан, бензин руль слева, 370 000 км",$ 8 200,https://im.mashina.kg/tachka/images//2/3/7/237756231b0adcc4faa26995f4ddc19c_240x180.jpg
+278,Honda Fit,"2003 г., 1.3 л., вариатор хэтчбек 5 дв., бензин руль справа, 117 000 км",$ 5 300,https://im.mashina.kg/tachka/images//4/3/6/4365f6aeda391788a896a836e279e427_240x180.jpg
+279,Mercedes-Benz E-класс,"2000 г., 3.2 л., автомат седан, бензин руль слева, 147 000 км",$ 9 200,https://im.mashina.kg/tachka/images//a/b/a/aba49796b3f7a806c4f8c1d5af628b2c_240x180.jpg
+280,Hyundai Getz,"2008 г., 1.4 л., механика хэтчбек 5 дв., бензин руль слева, 200 000 км",$ 6 300,https://im.mashina.kg/tachka/images//4/6/2/462d3697cce36fd163ebadbebf2f12e0_240x180.jpg
+281,Mercedes-Benz E-класс,"2000 г., 3.2 л., автомат седан, бензин руль слева, 147 000 км",$ 9 200,https://im.mashina.kg/tachka/images//a/b/a/aba49796b3f7a806c4f8c1d5af628b2c_240x180.jpg
+282,Hyundai Getz,"2008 г., 1.4 л., механика хэтчбек 5 дв., бензин руль слева, 200 000 км",$ 6 300,https://im.mashina.kg/tachka/images//4/6/2/462d3697cce36fd163ebadbebf2f12e0_240x180.jpg
+283,BMW X7,"2021 г., 3 л., автомат внедорожник 5 дв., бензин руль слева, 35 000 км",$ 137 000,https://im.mashina.kg/tachka/images//2/c/c/2cc233374648df072ababc9c9954d29e_240x180.jpg
+284,Honda Fit,"2003 г., 1.3 л., вариатор хэтчбек 5 дв., бензин руль слева, 20 800 км",$ 6 031,https://im.mashina.kg/tachka/images//5/e/6/5e640fea91f7347f5ea0f8899505e6f9_240x180.jpg
+285,Mercedes-Benz C-Класс,"1995 г., 1.8 л., автомат седан, бензин руль слева, 215 000 км",$ 3 755,https://im.mashina.kg/tachka/images//5/4/d/54d467979a692a9aeb7b6dcfeecb04e9_240x180.jpg
+286,Hyundai Santa Fe,"2016 г., 2.2 л., автомат внедорожник 5 дв., дизель руль слева, 152 000 км",$ 23 000,https://im.mashina.kg/tachka/images//5/3/7/53763b44c15419ea45ff9f999827fad3_240x180.jpg
+287,Nissan Juke,"2011 г., 1.6 л., вариатор внедорожник 5 дв., бензин руль слева, 97 000 км",$ 14 000,https://im.mashina.kg/tachka/images//2/0/1/20145297954d5b7ff68b2502e87ee39f_240x180.jpg
+288,Mercedes-Benz E-класс,"2002 г., 3.2 л., автомат седан, дизель руль слева, 290 000 км",$ 8 300,https://im.mashina.kg/tachka/images//8/a/8/8a87021955f57caef172743aeb7712ac_240x180.jpg
+289,Mercedes-Benz S-класс,"1996 г., 5 л., автомат седан, бензин руль слева, 300 000 км",$ 4 324,https://im.mashina.kg/tachka/images//0/5/a/05a51a8615ccbc87e486f29f91893c5e_240x180.jpg
+290,Toyota Camry,"2004 г., 2.4 л., автомат седан, бензин руль справа, 243 000 км",$ 11 600,https://im.mashina.kg/tachka/images//d/d/8/dd8a5bc052e44f70015d7d857f7929f6_240x180.jpg
+291,Daewoo Matiz,"2008 г., 0.8 л., автомат хэтчбек 5 дв., бензин руль слева, 188 000 км",$ 4 096,https://im.mashina.kg/tachka/images//6/8/f/68fbfacb8b0583ab5802b7e55097d3a2_240x180.jpg
+292,Daewoo Nexia,"2006 г., 1.6 л., механика седан, бензин руль слева, 200 000 км",$ 2 105,https://im.mashina.kg/tachka/images//4/b/4/4b4d108a92f3a931f9ed80d578adb8f9_240x180.jpg
+293,Daewoo Matiz,"2008 г., 0.8 л., механика хэтчбек 5 дв., бензин руль слева, 200 000 км",$ 1 821,https://im.mashina.kg/tachka/images//0/2/c/02c6f44de78c7dc29a2742278af96bec_240x180.jpg
+294,Toyota Highlander,"2016 г., 3.5 л., автомат внедорожник 5 дв., бензин руль слева, 98 000 км",$ 34 000,https://im.mashina.kg/tachka/images//a/5/3/a537766bc3e38480b49ae7904af10959_240x180.jpg
+295,Hyundai Santa Fe,"2017 г., 2 л., автомат внедорожник 5 дв., дизель руль слева, 128 000 км",$ 24 000,https://im.mashina.kg/tachka/images//0/1/2/0128b083d5d57d33a8405b309048ebcd_240x180.jpg
+296,Mercedes-Benz E-класс,"1999 г., 3 л., автомат седан, дизель руль слева, 287 000 км",$ 4 300,https://im.mashina.kg/tachka/images//0/8/4/084f5966d366d43344bc9fd1a1cbe574_240x180.jpg
+297,Toyota Avensis,"1998 г., 2 л., механика седан, бензин руль слева, 300 000 км",$ 5 100,https://im.mashina.kg/tachka/images//1/7/8/17801a6a7a7eaba1078ff2e5d83cc283_240x180.jpg
+298,Subaru Outback,"2017 г., 2.5 л., вариатор универсал, бензин руль слева, 109 435 км",$ 21 500,https://im.mashina.kg/tachka/images//c/0/a/c0a51efec52a02c7e886fe39aa5b2702_240x180.jpg
+299,Toyota Prius,"2013 г., 1.8 л., автомат хэтчбек 5 дв., гибрид руль слева, 111 111 км",$ 13 300,https://im.mashina.kg/tachka/images//6/8/4/6842b0897049150e9cdd334ad6c0a78d_240x180.jpg
+300,Nissan Qashqai+2,"2010 г., 2 л., вариатор внедорожник 5 дв., бензин руль слева, 148 000 км",$ 12 000,https://im.mashina.kg/tachka/images//8/5/2/85226163e22865321658576551dde6e8_240x180.jpg
